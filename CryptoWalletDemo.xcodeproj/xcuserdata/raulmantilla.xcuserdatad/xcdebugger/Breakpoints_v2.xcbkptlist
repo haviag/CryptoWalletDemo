@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7C933AC2-710D-40EC-9251-B1EEB51CD45D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C08072E-CF72-41DD-B9B4-5BF358F0DE5B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CryptoWalletDemo/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1C08072E-CF72-41DD-B9B4-5BF358F0DE5B - e2c839f8d30acbcc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;CryptoWalletDemo.CryptoModel&gt;, Swift.Error&gt;) -&gt; () in CryptoWalletDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoWalletDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raulmantilla/Desktop/CryptoWalletDemo/CryptoWalletDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "1C08072E-CF72-41DD-B9B4-5BF358F0DE5B - 1cc577b95608fc4a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWalletDemo.CryptoModel) -&gt; Swift.Optional&lt;CryptoWalletDemo.CryptoTableViewCellViewModel&gt; in closure #1 (Swift.Result&lt;Swift.Array&lt;CryptoWalletDemo.CryptoModel&gt;, Swift.Error&gt;) -&gt; () in CryptoWalletDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoWalletDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raulmantilla/Desktop/CryptoWalletDemo/CryptoWalletDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1358">
+               </Location>
+               <Location
+                  uuid = "1C08072E-CF72-41DD-B9B4-5BF358F0DE5B - 1cc577b95608fc65"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CryptoWalletDemo.CryptoModel) -&gt; Swift.Optional&lt;CryptoWalletDemo.CryptoTableViewCellViewModel&gt; in closure #1 (Swift.Result&lt;Swift.Array&lt;CryptoWalletDemo.CryptoModel&gt;, Swift.Error&gt;) -&gt; () in CryptoWalletDemo.ViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "CryptoWalletDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/raulmantilla/Desktop/CryptoWalletDemo/CryptoWalletDemo/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "1358">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
